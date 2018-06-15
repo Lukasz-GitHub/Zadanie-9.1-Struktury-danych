@@ -1,0 +1,22 @@
+
+#container {
+  div {
+    float: left;
+    margin: 5px;
+    border: 1px solid black;
+    width: 150px;
+    height: 100px;
+    opacity: 0.7;
+  }
+  .important {
+    opacity: 1;
+  }
+  .highlighted {
+    background-color: #66ccff;
+  }
+  .special-header {
+    header {
+      background-color: #c9c9c9;
+    }
+  }
+}
